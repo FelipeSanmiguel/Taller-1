@@ -1,0 +1,13 @@
+tipo:Extra:25:100.0
+tipo:Corriente:15:110.0
+tipo:Premium:30:50.0
+tipo:Superduper:20:460.0
+surtidor:Camilo:Extra:0.0:Corriente:0.0:Premium:0.0:Superduper:0.0
+surtidor:Camila:Extra:0.0:Corriente:0.0:Premium:0.0:Superduper:0.0
+surtidor:Juanita:Extra:0.0:Corriente:0.0:Premium:0.0:Superduper:40.0
+surtidor:Juanita:Extra:0.0:Corriente:0.0:Premium:0.0:Superduper:0.0
+empleado:Juanita:800
+empleado:Camila:0
+empleado:Camilo:0
+empleado:Juan:0
+empleado:Mario:0
